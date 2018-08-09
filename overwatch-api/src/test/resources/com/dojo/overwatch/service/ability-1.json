@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "name": "Biotic Rifle",
+  "description": "Ana\u2019s rifle shoots darts that can restore health to her allies or deal ongoing damage to her enemies. She can use the rifle\u2019s scope to zoom in on targets and make highly accurate shots.",
+  "is_ultimate": false,
+  "url": "https:\/\/overwatch-api.net\/api\/v1\/ability\/1",
+  "hero": {
+    "id": 1,
+    "name": "Ana",
+    "description": "Ana\u2019s versatile arsenal allows her to affect heroes all over the battlefield. Her Biotic Rifle rounds and Biotic Grenades heal allies and damage or impair enemies; her sidearm tranquilizes key targets, and Nano Boost gives one of her comrades a considerable increase in power.",
+    "health": 200,
+    "armour": 0,
+    "shield": 0,
+    "real_name": "Ana Amari",
+    "age": 60,
+    "height": null,
+    "affiliation": "Overwatch",
+    "base_of_operations": "Cairo, Egypt",
+    "difficulty": 3,
+    "url": "https:\/\/overwatch-api.net\/api\/v1\/hero\/1"
+  }
+}

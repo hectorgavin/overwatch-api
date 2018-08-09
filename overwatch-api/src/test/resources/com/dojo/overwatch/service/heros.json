@@ -1,0 +1,24 @@
+{
+  "total": 24,
+  "first": "http:\/\/overwatch-api.net\/api\/v1\/hero?page=1",
+  "next": "http:\/\/overwatch-api.net\/api\/v1\/hero?page=2",
+  "previous": null,
+  "last": "http:\/\/overwatch-api.net\/api\/v1\/hero?page=24",
+  "data": [
+    {
+      "id": 1,
+      "name": "Ana",
+      "description": "Ana\u2019s versatile arsenal allows her to affect heroes all over the battlefield. Her Biotic Rifle rounds and Biotic Grenades heal allies and damage or impair enemies; her sidearm tranquilizes key targets, and Nano Boost gives one of her comrades a considerable increase in power.",
+      "health": 200,
+      "armour": 0,
+      "shield": 0,
+      "real_name": "Ana Amari",
+      "age": 60,
+      "height": null,
+      "affiliation": "Overwatch",
+      "base_of_operations": "Cairo, Egypt",
+      "difficulty": 3,
+      "url": "https:\/\/overwatch-api.net\/api\/v1\/hero\/1"
+    }
+  ]
+}
